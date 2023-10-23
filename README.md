@@ -1,6 +1,12 @@
 # Reaction Network Analysis
 
-Python code developed to analyze results from a legacy kinetic modeling tool. The code parses information from a reaction network and property files to perform analysis. 
+Python code developed to analyze results from a legacy kinetic modeling tool. The code parses information from a reaction network and property files. The goal of the analysis is to understand where molecular flow is moving during kinetic parameter estimation.
+
+Analysis:
+ - Stoichmetric Matrix
+ - Species
+ - Double counted Bulk Property - when converting molecular information to bulk properties, are we double counting molecules? 
+ - Convert molecular-level model to lumped model
 
 Important Files:
   * reaction_network_analysis.py - Main file
