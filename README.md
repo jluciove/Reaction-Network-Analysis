@@ -1,6 +1,6 @@
 # Reaction Network Analysis
 
-Python code developed to analyze results from a legacy kinetic modeling tool.
+Python code developed to analyze results from a legacy kinetic modeling tool. The code parses information from a reaction network and property files. 
 
 Important Files:
   * reaction_network_analysis.py - Main file
