@@ -16,4 +16,4 @@ Important Files:
 Input:
  + property data
  + reaction network
- + 
+ + mixture property definitions
