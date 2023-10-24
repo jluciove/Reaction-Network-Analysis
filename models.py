@@ -4,7 +4,8 @@ import numpy as np
 
 # Model class
 # - Contains species and reaction information
-# - Species and reactions are separate classes
+# - Species and reactions are separate classes and 
+#   are loaded during run time
 
 class Models:
     species = []
