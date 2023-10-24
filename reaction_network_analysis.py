@@ -2,9 +2,9 @@
 # ------- Reaction Network Model Analysis --------
 # by Juan C. Lucio-Vega, 2021
 
-# -----------------------------------------------------
+# -------------------------------------------------------------------------------
 # Code is used to analyze reaction networks from a legacy kinetic modeling tool
-# -----------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Libraries
 from models import Models
