@@ -4,7 +4,7 @@ Python code developed to analyze results from a legacy kinetic modeling tool. Th
 
 Analysis:
  - Stoichmetric Matrix
- - Species
+ - Species Info
  - Bulk Property Test - when converting molecular information to bulk properties, are we double counting molecules? 
  - Convert molecular-level model to lumped model based on bulk property information (The molecular model should match the lumped model)
 
