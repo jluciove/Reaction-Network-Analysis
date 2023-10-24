@@ -10,13 +10,13 @@
 from models import Models
 
 #  ---- File paths ---- #
-propnames_filepath = "csv/PropNames.csv"
-mixpropdef_filepath = "csv/MixPropDefs.csv"
-rxns_filepath = "../KME6.0/Models/SAR_FCC_20210317/rxn.eqn"
-rxnfam_filepath = "../KME6.0/Models/SAR_FCC_20210317/RxnFamily.dat"
-rates_filepath = "../KME6.0/Models/SAR_FCC_20210317/Out/ratefile.dat"
-dydt_filepath = "../KME6.0/Models/SAR_FCC_20210317/Out/dydtfile.dat"
-properties_filepath = "../KME6.0/Models/SAR_FCC_20210317/Inp/proplist.dat"
+propnames_filepath = "csv/propNames.csv"
+mixpropdef_filepath = "csv/mixpropdefs.csv"
+rxns_filepath = "model/rxn.eqn"
+rxnfam_filepath = "model/rxnfamily.dat"
+rates_filepath = "model/output/ratefile.dat"
+dydt_filepath = "model/output/dydtfile.dat"
+properties_filepath = "model/output/proplist.dat"
 
 # ---- Initialize Models ---- #
 model = Models()
