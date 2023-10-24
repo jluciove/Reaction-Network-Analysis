@@ -6,7 +6,7 @@ Analysis:
  - Stoichmetric Matrix
  - Species
  - Bulk Property Test - when converting molecular information to bulk properties, are we double counting molecules? 
- - Convert molecular-level model to lumped model
+ - Convert molecular-level model to lumped model based on bulk property information
 
 Important Files:
   * reaction_network_analysis.py - Main file
