@@ -61,7 +61,7 @@ class Rxns:
                     self.species.append(product)
                     self.species_products.append(product)
         else:
-            # Resction is irreversible
+            # Reaction is irreversible
             self.rxn_direction = '->'
             split_rxn = self.rxn.split('->')
             # Split reactants
