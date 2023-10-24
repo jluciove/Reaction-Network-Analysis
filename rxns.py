@@ -1,5 +1,10 @@
 import re
 
+# Reaction class to store information about the reaction
+# - Species (Reactants and Products)
+# - stoichiometry
+# - rxn type
+
 class Rxns:
     species = []
     reactants = []
