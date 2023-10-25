@@ -1,11 +1,10 @@
 from rxns import Rxns
-from species import Species
 import numpy as np
 
 # Model class
 # - Contains species and reaction information
-# - Species and reactions are separate classes and 
-#   are loaded during run time
+# - Rxns class loaded during run time to data
+# - species class is not used and is kept for future development
 
 class Models:
     species = []
