@@ -1,4 +1,5 @@
-# Currently not used retained for possible future uses
+# Currently not used
+# Retained for possible future uses
 
 class Species:
     info = {}
