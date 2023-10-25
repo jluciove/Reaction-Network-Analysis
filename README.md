@@ -12,6 +12,7 @@ Important Files:
   * reaction_network_analysis.py - Main file
   * models.py - Parse data from files and transfer to class data structure
   * rxns.py - Parse reaction info and store in class
+  * species.py - not currently used in this iteration
 
 Input:
  + property data
